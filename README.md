@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Tax Calculation Project|Calculation of Pricing changes depending on different tax percentages | https://github.com/lihlasaisi/Tax-Calculation-Project.git |
+| 2 |  Housing |  Understanding Machine Learning and how to implement it | https://github.com/lihlasaisi/Housing.git |
+| 3 |  Calculator |  Simple Mortgage and Tip Calculator Codes | https://github.com/lihlasaisi/Tip-Calc.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
